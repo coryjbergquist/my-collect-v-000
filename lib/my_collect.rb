@@ -1,10 +1,10 @@
 def my_collect(array)
   x = 0
   while x < array.count
-  yield(array)
+  yield(array, second)
   
   x += 1
 end
-array
+
 end
 
