@@ -4,10 +4,10 @@ def my_collect(array)
   new_array = []
   while x < array.count
 new_array << yield (array[x])
+end
   
   x += 1
   
-end
 end
 end
 new_array
