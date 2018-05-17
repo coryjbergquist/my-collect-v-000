@@ -8,7 +8,7 @@ new_array << yield (array[x])
   x += 1
   
 end
-
+end
 end
 new_array
 end
