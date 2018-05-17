@@ -7,7 +7,7 @@ def my_collect(array)
   
   x += 1
 end
-array.split
+array
 end
 
 end
