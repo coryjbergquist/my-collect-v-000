@@ -9,6 +9,6 @@ new_array << yield (array[x])
   
 end
 end
-
+new_array
 end
 
