@@ -10,6 +10,6 @@ def my_collect(array)
 end
 
 end
-new_array
+yield
 end
 
